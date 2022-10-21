@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="info">I am thinking of a number.See if you can guess it by first selecting below if you think the number has 2,3, or 4 digits.(On the next page, you get ten tries to guess the right number.)
+    </string>
+</resources>
